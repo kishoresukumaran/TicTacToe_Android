@@ -77,7 +77,7 @@
                 android:layout_margin="10dp"
                 android:id="@+id/btn_play"
                 android:text="PLAY"
-                android:textSize="18sp" />
+                android:textSize="17sp" />
 
         </LinearLayout>
 
