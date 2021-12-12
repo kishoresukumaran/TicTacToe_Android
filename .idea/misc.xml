@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/default_gamemode_option.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/drawable/selected_gamemode_option.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/layout/activity_game_screen.xml" value="0.36302083333333335" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.36302083333333335" />
       </map>
